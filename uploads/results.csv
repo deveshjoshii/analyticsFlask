@@ -1,0 +1,5 @@
+Url,Fieldname,Value,Action,Status
+https://apply.americanexpress.com/en-us/hil-lto-q3/page/30,pageName,US|Acq|LandingPage|Hilton|Q3 LTO 2024| MCLP|URL 30,,Fail
+https://apply.americanexpress.com/marriottbonvoymclp150/,pageName,US|Acq|LandingPage|AMEX Marriott New LP 3.0|URL 150,,Fail
+https://apply.americanexpress.com/en-us/hil-lto-q3/page/30,v5,US:Acq>>Click>Apply for a Card Nav,click|#applyForCard-menu,Fail
+https://apply.americanexpress.com/marriottbonvoymclp150/,pageName,US|Acq|LandingPage|AMEX Marriott New LP 3.0|URL 150,,Fail
